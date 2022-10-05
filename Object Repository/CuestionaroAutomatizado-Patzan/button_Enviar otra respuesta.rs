@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Enviar otra respuesta</name>
+   <tag></tag>
+   <elementGuidId>e8d535a1-b7cd-41de-b0c3-3762d8dc1fab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.buttons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='Contenido']/article/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>38b7a74b-5968-4f64-9378-e26219e8b8f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>buttons</value>
+      <webElementGuid>0b4810b7-bf33-446a-a811-1ac204bcef85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enviar otra respuesta</value>
+      <webElementGuid>9602ae94-56f8-4cd0-bd6c-577bc453c39f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Contenido&quot;)/article[1]/div[@class=&quot;contenido&quot;]/button[@class=&quot;buttons&quot;]</value>
+      <webElementGuid>3ef82821-1e0c-469a-8fa8-5cbd7d121c1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='Contenido']/article/div/button</value>
+      <webElementGuid>2f49b406-3a0f-493a-9732-709b02da4ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Series que le interesan:'])[1]/following::button[1]</value>
+      <webElementGuid>537a19c2-710d-442c-a767-f6af359c7ed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enviar otra respuesta']/parent::*</value>
+      <webElementGuid>d4ad9ca4-6186-45e6-bde6-2285532f2e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>cb821d7f-f02a-410b-bf2d-6939827d22f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Enviar otra respuesta' or . = 'Enviar otra respuesta')]</value>
+      <webElementGuid>942bcced-ee5a-45a4-a13a-1b1bd4c569a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

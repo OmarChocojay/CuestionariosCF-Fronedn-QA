@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Telfono del PadreTelfono del Padre</name>
+   <tag></tag>
+   <elementGuidId>801f542e-b7ec-4a67-815f-e824b92068bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/form/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2bb41156-6b78-406f-9078-37a3e2d7d5e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormControl-root MuiTextField-root input css-87cbo5</value>
+      <webElementGuid>9fbea546-6022-453b-9afb-76cad34b8f34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Teléfono del PadreTeléfono del Padre</value>
+      <webElementGuid>9872d13b-f302-4c99-a2ec-3f2dfe0bb105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/form[@class=&quot;form img2&quot;]/div[@class=&quot;MuiFormControl-root MuiTextField-root input css-87cbo5&quot;]</value>
+      <webElementGuid>33f22760-9a9a-4917-98f8-9dd91b9ee40f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/form/div[4]</value>
+      <webElementGuid>2b1f9529-a68d-4d51-84d8-3e1c95f72989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teléfono de la Madre'])[2]/following::div[1]</value>
+      <webElementGuid>36996489-640a-4a39-8853-8191624bdad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teléfono de la Madre'])[1]/following::div[2]</value>
+      <webElementGuid>a779caba-6f84-43d1-9e76-27fcd03a7919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]</value>
+      <webElementGuid>1184d7af-91a0-42b7-8419-d4205a93f4ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Teléfono del PadreTeléfono del Padre' or . = 'Teléfono del PadreTeléfono del Padre')]</value>
+      <webElementGuid>000bee09-b4fe-498b-bc66-c6f77b3387e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Envia otra respuesta</name>
+   <tag></tag>
+   <elementGuidId>291f3a7e-63d0-46d3-9c41-89e36d83ce79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.form__answers</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9b6ebb6c-2942-44c8-b432-92f2329bca6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/home</value>
+      <webElementGuid>707de0fe-047a-4e4f-9cb5-374770fbdbf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form__answers</value>
+      <webElementGuid>2493f3b9-5481-4c83-b6bc-9cc5a86ab796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ¡Envia otra respuesta!</value>
+      <webElementGuid>62976823-f132-4506-8496-429791bd2510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;form&quot;]/div[@class=&quot;input__answers&quot;]/div[1]/a[@class=&quot;form__answers&quot;]</value>
+      <webElementGuid>d17888ff-4dca-4ed4-bb40-04def572709f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/a</value>
+      <webElementGuid>bd659fba-9ac4-4d6c-b042-60b416ec42fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'¡Envia otra respuesta!')]</value>
+      <webElementGuid>30dc6844-b7b2-4c36-a5cf-b4921c1cd472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡Editar!'])[4]/following::a[1]</value>
+      <webElementGuid>2f0c7de8-a7cc-4953-b9e3-416a89a4422f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Colegiatura: Q650'])[1]/following::a[2]</value>
+      <webElementGuid>edd0f93d-b4ae-45ed-ad6b-afb2882b990b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='¡Envia otra respuesta!']/parent::*</value>
+      <webElementGuid>158332f5-d71a-49bb-8d0a-8bc6dd6d4f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/home')])[2]</value>
+      <webElementGuid>bb216bd9-6edb-4a95-afb0-9b7147d2b621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a</value>
+      <webElementGuid>f04c8e03-0fe1-4a61-985e-8bac63f7085d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/home' and (text() = ' ¡Envia otra respuesta!' or . = ' ¡Envia otra respuesta!')]</value>
+      <webElementGuid>c49d003e-36b0-446f-82d8-229ed2ae6241</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
